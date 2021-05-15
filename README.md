@@ -1,5 +1,7 @@
 # RegulQuant
-CS 242 Final Project, Spring 2021
+CS 242 Final Project, Spring 2021. 
+
+Junu Lee, Andrew Lu, Brandon Tang
 
 This is the research framework for our CS 242 Project, at Harvard University. The focus is 
 discovering more creative regularizers to use as a quantization-aware training protocol, giving us 
