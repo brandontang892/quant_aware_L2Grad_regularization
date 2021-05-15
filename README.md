@@ -1,9 +1,9 @@
 # RegulQuant
-CS 242 Final Project, Spring 2021. 
+Harvard CS 242 Computing at Scale (Graduate) Final Project, Spring 2021. 
 
 Junu Lee, Andrew Lu, Brandon Tang
 
-This is the research framework for our CS 242 Project, at Harvard University. The focus is 
+This is the research framework for our CS 242 Final Project, at Harvard University. The focus is 
 discovering more creative regularizers to use as a quantization-aware training protocol, giving us 
 better metrics for quantization error and post-training accuracy. Our current direction is
 to expand upon [this paper](https://arxiv.org/abs/2002.07520) which uses L1 
